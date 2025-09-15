@@ -1,6 +1,9 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
 
+        # Time: O(logn): Binary search halves search every iteration
+        # Space: O(1): No extra space is being used except constant space by new variables 
+        
         # initialize two pointers left and right
         l, r = 0, len(nums) - 1
 
