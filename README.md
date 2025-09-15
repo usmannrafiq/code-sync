@@ -1,2 +1,2 @@
-# code-sync
-Coding solutions automatically synced from dotpush extension - https://dotpush.ca/
+# Data Structures and Algorithms Practice
+Solutions to DSA problems
