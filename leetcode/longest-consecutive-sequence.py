@@ -3,6 +3,7 @@ class Solution:
 
         # Time: O(n)
         # Space: O(n)
+        
         # initialize a hashset for comparisons
         numSet = set(nums)
         # streak is the longest sequence
